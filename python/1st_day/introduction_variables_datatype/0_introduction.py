@@ -7,7 +7,7 @@
 # Caratteristiche
 # - Semplice e coinciso
 # - è molto flessibile, trova applicazione in tantissimi campi
-#   grazie alla grande quantità di framework, librerie e moduli
+#   grazie alla grande quantità di framework, librerie e moduli messi a disposizione
 # - è molto popolare, ad oggi al primo posto nella classifica TIOBE (2020)
 #
 # piano d'azione per step
