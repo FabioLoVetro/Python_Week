@@ -9,9 +9,9 @@ più conosciuto e amato al mondo.
 
 ## Caratteristiche
 - Semplice e coinciso
-- è molto flessibile, trova applicazione in tantissimi campi
+- Molto flessibile, trova applicazione in tantissimi campi
   grazie alla grande quantità di framework, librerie e moduli messi a disposizione
-- è molto popolare, a oggi al primo posto nella classifica TIOBE index (jen 2024)
+- Molto popolare, a oggi al primo posto nella classifica TIOBE index (jen 2024)
 
 ## Piano d'azione per step
 Steps per un possibile piano di azione per iniziare con Python.
