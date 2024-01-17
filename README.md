@@ -11,7 +11,7 @@ più conosciuto e amato al mondo.
 - Semplice e coinciso
 - è molto flessibile, trova applicazione in tantissimi campi
   grazie alla grande quantità di framework, librerie e moduli messi a disposizione
-- è molto popolare, ad oggi al primo posto nella classifica TIOBE (oct 2020)
+- è molto popolare, a oggi al primo posto nella classifica TIOBE index (jen 2024)
 
 ## Piano d'azione per step
 Steps per un possibile piano di azione per iniziare con Python.
