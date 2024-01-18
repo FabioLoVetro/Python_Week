@@ -1,6 +1,9 @@
 # Istruzioni cicliche
 # ci permettono di eseguire istruzioni in maniera ciclica (ripetuta)
-
+#
+# NOTA. in termini di prestazione i cicli di python sono "lenti"
+# quindi se puoi sostituirli con una funzione... fallo!!! (consiglio per il futuro non per ora)
+#
 # vediamo subito un esempio del perché sono importanti
 
 # data una lista di valori vogliamo fare la media
